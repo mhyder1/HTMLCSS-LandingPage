@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6 { margin: 0; }
 /***************************************/
 
 .container {
-    top: 0 auto;
+    margin: 0 auto;
     max-width: 1170px;
 }
 
@@ -29,7 +29,7 @@ section {
     flex: 1
 }
 
-.align-cener {
+.align-center {
     align-items: center;
 }
 
